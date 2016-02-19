@@ -40,13 +40,13 @@
     "sinon": "1.17.x",
     "eslint-plugin-react": "3.x.x",
     "react-addons-test-utils": "^0.14.6",
-    "enzyme": "^2.0.0"
+    "enzyme": "^2.0.0",
+    "jsdom": "^8.0.4"
   },
   "peerDependencies": {
     "react": "0.14.x"
   },
   "dependencies": {
-    "babel-runtime": "6.x.x",
-    "jsdom": "^8.0.4"
+    "babel-runtime": "6.x.x"
   }
 }
