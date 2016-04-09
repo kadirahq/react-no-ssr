@@ -44,7 +44,7 @@
     "jsdom": "^8.0.4"
   },
   "peerDependencies": {
-    "react": "0.14.x"
+    "react": "^0.14.0 || ^15.0.0"
   },
   "dependencies": {
     "babel-runtime": "6.x.x"
