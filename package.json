@@ -34,13 +34,13 @@
     "babel-preset-react": "6.x.x",
     "babel-plugin-react-require": "2.x.x",
     "babel-root-slash-import": "1.x.x",
-    "react": "0.14.x",
-    "react-dom": "0.14.x",
+    "react": "^15.0.0",
+    "react-dom": "^15.0.0",
     "mock-require": "1.x.x",
     "sinon": "1.17.x",
     "eslint-plugin-react": "3.x.x",
-    "react-addons-test-utils": "^0.14.6",
-    "enzyme": "^2.0.0",
+    "react-addons-test-utils": "^15.0.0",
+    "enzyme": "^2.2.0",
     "jsdom": "^8.0.4"
   },
   "peerDependencies": {
